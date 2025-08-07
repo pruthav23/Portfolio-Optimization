@@ -33,6 +33,8 @@ This project implements **Modern Portfolio Theory (MPT)** to simulate and analyz
   - `numpy`
   - `pandas`
   - `matplotlib`
+  - `seaborn`
+  - `yfinance`
 
 Install with:
 
